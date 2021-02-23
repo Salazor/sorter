@@ -1,0 +1,13 @@
+D:\Ruslan\6. Work\Атомик-Софт\tests\tt1\sorter\bin\Debug\netcoreapp3.1\sorter.exe
+D:\Ruslan\6. Work\Атомик-Софт\tests\tt1\sorter\bin\Debug\netcoreapp3.1\sorter.deps.json
+D:\Ruslan\6. Work\Атомик-Софт\tests\tt1\sorter\bin\Debug\netcoreapp3.1\sorter.runtimeconfig.json
+D:\Ruslan\6. Work\Атомик-Софт\tests\tt1\sorter\bin\Debug\netcoreapp3.1\sorter.runtimeconfig.dev.json
+D:\Ruslan\6. Work\Атомик-Софт\tests\tt1\sorter\bin\Debug\netcoreapp3.1\sorter.dll
+D:\Ruslan\6. Work\Атомик-Софт\tests\tt1\sorter\bin\Debug\netcoreapp3.1\sorter.pdb
+D:\Ruslan\6. Work\Атомик-Софт\tests\tt1\sorter\obj\Debug\netcoreapp3.1\sorter.csprojAssemblyReference.cache
+D:\Ruslan\6. Work\Атомик-Софт\tests\tt1\sorter\obj\Debug\netcoreapp3.1\sorter.AssemblyInfoInputs.cache
+D:\Ruslan\6. Work\Атомик-Софт\tests\tt1\sorter\obj\Debug\netcoreapp3.1\sorter.AssemblyInfo.cs
+D:\Ruslan\6. Work\Атомик-Софт\tests\tt1\sorter\obj\Debug\netcoreapp3.1\sorter.csproj.CoreCompileInputs.cache
+D:\Ruslan\6. Work\Атомик-Софт\tests\tt1\sorter\obj\Debug\netcoreapp3.1\sorter.dll
+D:\Ruslan\6. Work\Атомик-Софт\tests\tt1\sorter\obj\Debug\netcoreapp3.1\sorter.pdb
+D:\Ruslan\6. Work\Атомик-Софт\tests\tt1\sorter\obj\Debug\netcoreapp3.1\sorter.genruntimeconfig.cache
